@@ -1,0 +1,6 @@
+schematics sft-hw-0021-1.sch sft-hw-0021-2.sch sft-hw-0021-3.sch
+output-name sft-hw-0021
+elements-dir ~/geda_public/partlib/local/smd
+elements-dir ~/geda_public/partlib/local/thd
+elements-dir /usr/share/pcb/pcblib-newlib/connector
+elements-dir /usr/share/pcb/pcblib-newlib/geda

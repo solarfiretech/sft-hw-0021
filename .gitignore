@@ -1,0 +1,9 @@
+*.ps
+*~
+*.cmd
+*.net
+*-
+*.pdf
+*.png
+pcb/*.txt
+*backup
